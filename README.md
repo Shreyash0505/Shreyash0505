@@ -5,19 +5,19 @@
 
 - 🔭 &nbsp; I’m currently learning Web Development.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Pursuing my Bachelors in Computer Science at D.Y.Patil college of Science and Computer Science.
-- 💼 &nbsp; Student "2nd Year".
-- 🌱 &nbsp; Enthusiast in Full Stack development, Software Development, AI, Data Science and Cloud Computing .
+- 🎓 &nbsp; Pursuing my Masters in Computer Application at PCCoE, Nigdi.
+- 💼 &nbsp; Student "1st Year".
+- 🌱 &nbsp; Enthusiast in Full Stack development, Data Engineering and Cloud Computing .
 - ✍️ &nbsp; Professional gamer and Wildlife/Astro Photography enthusiast.
 - ☕ &nbsp; Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | C | C++  
+- 💻 &nbsp; Python | C | Java 
 - 🌐 &nbsp; HTML | CSS | JavaScript 
 - 🛢 &nbsp; MySQL | PL/SQL
-- 🔧 &nbsp; Windows | PyCharm | VS Code | MS Office | Jupyter | Anaconda
-- 🖥 &nbsp; Adobe lightroom | Illustrator | Photoshop 
+- 🔧 &nbsp; AWS | DJANGO | GIT/GITHUB | CI/CD
+ 
 
 
 <h3> 🤝🏻 Connect with Me </h3>
